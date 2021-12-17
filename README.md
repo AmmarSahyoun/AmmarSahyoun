@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ammar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ammar | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][Kaggle]
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ammar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ammar | LinkedIn" width="22px" src="ico\linkedin.png" />][linkedin]
+[<img align="left" alt="Ammar | Kaggle" width="22px" src="ico\kaggle.png" />][Kaggle]
+[<img align="left" alt="Portfolio" width="22px" src="ico\domain.png" />][website]
+[<img align="left" alt="Ammar | Instagram" width="22px" src="ico\insta.png" />][instagram]
 
 
 <br />
