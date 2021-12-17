@@ -27,24 +27,24 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="python" width="30px" src="D:\AmmarSahyoun\ico\python.png" />
+<img align="left" alt="python" width="30px" src=ico\python.png" />
 
 <!--img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /-->
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="ubuntu" width="30px" src="D:\AmmarSahyoun\ico\ubuntu.png" />
+<img align="left" alt="ubuntu" width="30px" src="ico\ubuntu.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="docker" width="30px" src="D:\AmmarSahyoun\ico\docker.png" />
+<img align="left" alt="docker" width="30px" src="ico\docker.png" />
 
-<img align="left" alt="jupyter" width="30px" src="D:\AmmarSahyoun\ico\jupyter.png" />
-<img align="left" alt="mongo" width="30px" src="D:\AmmarSahyoun\ico\mongodb.png" />
-<img align="left" alt="mysql" width="30px" src="D:\AmmarSahyoun\ico\mysql.png" />
-<img align="left" alt="postgres" width="30px" src="D:\AmmarSahyoun\ico\post.png" />
-<img align="left" alt="postman" width="30px" src="D:\AmmarSahyoun\ico\postman.png" />
+<img align="left" alt="jupyter" width="30px" src="ico\jupyter.png" />
+<img align="left" alt="mongo" width="30px" src="ico\mongodb.png" />
+<img align="left" alt="mysql" width="30px" src="ico\mysql.png" />
+<img align="left" alt="postgres" width="30px" src="ico\post.png" />
+<img align="left" alt="postman" width="30px" src="ico\postman.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="powerbi" width="30px" src="D:\AmmarSahyoun\ico\powerbi.png" />
+<img align="left" alt="powerbi" width="30px" src="ico\powerbi.png" />
 <!--img align="left" alt="pycharm" width="30px" src="D:\AmmarSahyoun\ico\pycharm.png" /-->
 
 <!--img align="left" alt="R" width="30px" src="D:\AmmarSahyoun\ico\R.png" /-->
