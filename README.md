@@ -17,11 +17,11 @@
 
 
 ### My Experience
-- IoT Engineer at Assimilatus  (Oct 2021 - January 2022)
-- Data Engineer part-time at Nevermind (Aug - Sep 2021)
-- Data Engineer Intern at Sogeti (Aug - Dec 2020)
-- Web developer Freelancer (2013-2015)
-- Telecom technician at EEs (2004-2011)
+- IoT Engineer intern at Assimilatus  (Oct 2021 - January 2022) Helsingborg
+- Data Engineer part-time at Nevermind (Aug - Sep 2021) Stockholm
+- Data Engineer intern at Sogeti (Aug - Dec 2020) Malmö
+- Web developer Freelancer (2012-2014) Damascus
+- Telecom technician at EEs (2004-2011) Damascus
 
 
 ### Languages and Tools:
@@ -39,7 +39,6 @@
 <img align="left" alt="mysql" width="20px" src="ico\mysql.png" />
 <img align="left" alt="postgres" width="20px" src="ico\post.png" />
 <img align="left" alt="postman" width="20px" src="ico\postman.png" />
-<img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="powerbi" width="20px" src="ico\powerbi.png" />
 <img align="left" alt="R" width="20px" src="ico\R.png" />
 <img align="left" alt="java" width="20px" src="ico\Java.png" />
