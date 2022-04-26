@@ -2,7 +2,7 @@
 
 
 - 🔢 I'm a Programmer and Data Engineer!
-- 🌱 I’m currently learning Azure ☁ 
+- 🌱 I’m Microsoft Azure certified DP-900 + DP-203 
 - ⚡ Hobbies: I love Music, Dance and coding
 
 ### Connect with me:
