@@ -2,7 +2,7 @@
 
 
 - 🔢 I'm a Programmer and Data Engineer!
-- 🌱 I’m currently learning GCP ☁ 
+- 🌱 I’m currently learning Azure ☁ 
 - ⚡ Hobbies: I love Music, Dance and coding
 
 ### Connect with me:
