@@ -1,8 +1,8 @@
 ## Hi there, I'm [Ammar][website] 👋 
 
 
-- 🔢 I'm a Programmer and Data Engineer!
-- 🌱 I’m Microsoft Azure certified DP-900 + DP-203 
+- 🔢 I'm a Data consultant!
+- 🌱 I’m Microsoft Azure certified DP-900 + DP-203 + PL-300
 - ⚡ Hobbies: I love Music, Dance and coding
 
 ### Connect with me:
@@ -17,11 +17,14 @@
 
 
 ### My Experience
-- IoT Engineer intern at Assimilatus  (Oct 2021 - January 2022) Malmö.
-- Data Engineer part-time at Nevermind (Aug - Sep 2021) Stockholm.
-- Data Engineer intern at Sogeti (Aug - Dec 2020) Malmö.
-- Web developer Freelancer (2012-2014) Damascus
-- Telecom technician at EEs (2004-2011) Damascus
+- Web developer Freelancer (Sep 2012) Damascus.
+- Data Analyst @ Jordbruksverket (Aug 2020) Malmö.
+- Data Science @ Nevermind (Juli 2021) Stockholm.
+- IoT data engineer @ Assimilatus (Sep 2021) Malmö.
+- Data Engineer @ Sogeti (Jan 2022) Malmö.
+
+
+
 
 
 ### Languages and Tools:
