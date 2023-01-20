@@ -21,9 +21,11 @@
 <img align="left" alt="jupyter" width="20px" src="ico\jupyter.png" />
 <img align="left" alt="azure" width="20px" src="ico\azure-1.png" />
 <img align="left" alt="powerbi" width="20px" src="ico\powerbi.png" />
+<img align="left" alt="mysql" width="20px" src="ico\mysql.png" />
 <img align="left" alt="gcp" width="20px" src="ico\gcp.png" />
 <img align="left" alt="mongo" width="20px" src="ico\mongodb.png" />
-<img align="left" alt="mysql" width="20px" src="ico\mysql.png" />
+<img align="left" alt="mongo" width="20px" src="ico\snf.png" />
+
 <img align="left" alt="postgres" width="20px" src="ico\post.png" />
 <img align="left" alt="postman" width="20px" src="ico\postman.png" />
 <img align="left" alt="HTML5" width="20px" src="ico/html.png" />
