@@ -2,8 +2,8 @@
 
 
 - 🔢 I'm a Data Engineer\Analyst
-- 🌱 Microsoft AZ-900, DP-900, SC-900, DP-203, PL-300 Certified. 
-- 😎 PDE Google Cloud Professional Data Engineer. 
+- 🌱 Microsoft AZ-900, DP-900, SC-900, DP-203, PL-300, DP-500 Certified. 
+- 😎 Google Cloud Professional Data Engineer PDE Cert. 
 
 
 <br />
