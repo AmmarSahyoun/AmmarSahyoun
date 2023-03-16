@@ -13,6 +13,9 @@
 
 ### Platforms:
 
+<img align="left" alt="T-SQL" width="20px" src="ico\tsql.png" />
+<img align="left" alt="Azure Synapse Analytics" width="20px" src="ico\ASA.png" />
+<img align="left" alt="Databricks" width="20px" src="ico\DB.png" />
 
 <img align="left" alt="python" width="20px" src="ico\python.png" />
 <img align="left" alt="ubuntu" width="20px" src="ico\ubuntu.png" />
