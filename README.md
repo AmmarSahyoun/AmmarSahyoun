@@ -13,22 +13,22 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/modeling.jpg"  title="modeling" alt="modeling" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/modeling.svg"  title="modeling" alt="modeling" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 
 <br />
 
 ### Tools:
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/dbt.png"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/BigQuery.png"  title="bq" alt="bq" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/dbt.svg"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/BigQuery.svg"  title="bq" alt="bq" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"  title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VC" alt="VC" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/ADF.png"  title="adf" alt="adf" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/synapse.png"  title="synapse" alt="synapse" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/databricks.png"  title="databricks" alt="databricks" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/Powerbi.png"  title="pbi" alt="pbi" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/Postman.png"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/ADF.svg"  title="adf" alt="adf" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/synapse.svg"  title="synapse" alt="synapse" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/databricks.svg"  title="databricks" alt="databricks" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/Powerbi.svg"  title="pbi" alt="pbi" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/tree/master/ico/Postman.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 
 
