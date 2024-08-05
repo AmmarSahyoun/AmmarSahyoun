@@ -14,7 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/modeling.svg"  title="data modeling" alt="data modeling" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/spark.png"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Spark.jpg"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 
 <br />
 
