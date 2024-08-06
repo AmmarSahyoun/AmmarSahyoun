@@ -1,12 +1,11 @@
 ## Hi I'm [Ammar][linkedin] 👋 
 
 
-- 📶 I'm a Data Engineer
+- 💾 I'm a Data Engineer
 - 📜 Microsoft Certified AZ-900, DP-900, SC-900, DP-203, PL-300, DP-500. 
 - 📜 Google Cloud Certified Professional Data Engineer PDE. 
 - 📜 Databricks Certified Data Engineer Associate.
 
-<br />
 
 ### Skills:
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"  title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
@@ -16,7 +15,7 @@
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/modeling.svg"  title="data modeling" alt="data modeling" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Spark.jpg"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 
-<br />
+
 
 ### Tools:
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/dbt.svg"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=richardgourley&color=brightgreen&)
+![](https://komarev.com/ghpvc/?username=richardgourley&color=blue&abbreviated=true)
 
 [linkedin]: https://www.linkedin.com/in/amsah/
 
