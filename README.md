@@ -14,15 +14,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/modeling.svg"  title="data modeling" alt="data modeling" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Spark.jpg"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Spark.png"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/devops.png"  title="DevOps" alt="DevOps" width="40" height="40"/>&nbsp;
 
 
 
 ### Tools:
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/dbt.svg"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/BigQuery.svg"  title="bq" alt="bq" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/dbt.png"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/BigQuery.png"  title="bq" alt="bq" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/docker.png"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"  title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VC" alt="VC" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/ADF.svg"  title="adf" alt="adf" width="40" height="40"/>&nbsp;
