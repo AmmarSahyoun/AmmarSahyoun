@@ -2,7 +2,7 @@
 
 
 - 💾 I'm a Data Engineer
-- 📜 Microsoft Certified AZ-900, DP-900, SC-900, DP-203, PL-300, DP-500. 
+- 📜 Microsoft Certified AZ-900, DP-900, SC-900, DP-203, PL-300, DP-500, DP-700
 - 📜 Google Cloud Certified Professional Data Engineer PDE. 
 - 📜 Databricks Certified Data Engineer Associate.
 
@@ -16,11 +16,14 @@
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/modeling.svg"  title="data modeling" alt="data modeling" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Spark.png"  title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/devops.png"  title="DevOps" alt="DevOps" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/ETL.png"  title="ETL" alt="ETL" width="40" height="40"/>&nbsp;
 
 
 
 ### Tools:
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/dbt.png"  title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/fabric.png"  title="Fabric" alt="Fabric" width="40" height="40"/>&nbsp;
+<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/airFlow.png"  title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/BigQuery.png"  title="bq" alt="bq" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/docker.png"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"  title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
@@ -28,8 +31,6 @@
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/ADF.svg"  title="adf" alt="adf" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/synapse.svg"  title="synapse" alt="synapse" width="40" height="40"/>&nbsp;
 <img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/databricks.svg"  title="databricks" alt="databricks" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/Powerbi.svg"  title="pbi" alt="pbi" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AmmarSahyoun/AmmarSahyoun/blob/master/ico/postman.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 
 
